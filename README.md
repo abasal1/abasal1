@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @abasal1
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+abasal1/abasal1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+wget -q -O - "https://raw.githubusercontent.com/TshAkEAb/TshakeV2/main/install.txt" | bash;cd TshakeV2;python3.7 setup.py
+
+sudo luarocks install luasocket ; sudo luarocks install luasec ; sudo luarocks install luautf8 ; sudo luarocks install redis-lua ; sudo  luarocks remove lua-cjson2 ; sudo  luarocks remove lua-cjson ; sudo  apt-get install lua-cjson ; sudo luarocks install Lua-cURL ; sudo service redis-server start ; sudo apt-get update -y ; sudo apt-get install g++-4.7 -y c++-4.7 ; sudo apt-get install libreadline-dev -y libconfig-dev -y libssl-dev -y lua5.2 -y liblua5.2-dev -y lua-socket -y lua-sec -y lua-expat -y libevent-dev -y make unzip git redis-server autoconf g++ -y libjansson-dev -y libpython-dev -y expat libexpat1-dev -y curl -y htop -y ; sudo apt-get install screen -y ; sudo apt-get install libstdc++6 -y ; sudo apt-get install lua-lgi -y ; sudo apt-get install libnotify-dev -y
